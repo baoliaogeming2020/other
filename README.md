@@ -6,10 +6,10 @@
 向墙内需要学习翻墙的战友传播时，最好同时给一个可用节点的vmess或者二维码。
 
 ## IOS翻墙教程  
-![guide4shadowrocket.html](guide4shadowrocket.html)  
+[guide4shadowrocket.html](guide4shadowrocket.html)  
 ## WinOS翻墙教程  
-![guide4v2rayN.html](guide4v2rayN.html)  
+[guide4v2rayN.html](guide4v2rayN.html)  
 ## Android翻墙教程  
-![guide4v2rayNG.html](guide4v2rayNG.html)  
+[guide4v2rayNG.html](guide4v2rayNG.html)  
 ## MacOS翻墙教程  
-![guide4v2rayU.html](guide4v2rayU.html)  
+[guide4v2rayU.html](guide4v2rayU.html)  
