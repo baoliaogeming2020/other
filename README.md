@@ -21,4 +21,6 @@
 [guide4v2rayU.html](guide4v2rayU.html)  
 [guide4qv2ray.html](guide4qv2ray.html)
 ## Linux翻墙教程
-[guide4qv2ray.html](guide4qv2ray.html)
+[guide4qv2ray.html](guide4qv2ray.html)  
+## 战友安全翻墙手册  
+[guide4SafeOfThroughGFW.html](guide4SafeOfThroughGFW.html)  
