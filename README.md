@@ -24,3 +24,5 @@
 [guide4qv2ray.html](guide4qv2ray.html)  
 ## 战友安全翻墙手册  
 [guide4SafeOfThroughGFW.html](guide4SafeOfThroughGFW.html)  
+## 爆料革命网络宣传单制作手册  
+[guide4leaflet.html](guide4leaflet.html)  
