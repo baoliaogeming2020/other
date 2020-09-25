@@ -22,6 +22,9 @@
 [guide4qv2ray.html](guide4qv2ray.html)
 ## Linux翻墙教程
 [guide4qv2ray.html](guide4qv2ray.html)  
+## 一键安装脚本教程  
+[guide4V2rayScript.html](guide4V2rayScript.html)  
+本来不想推荐，怕有钓鱼，但小白战友太多了。  
 ## 战友安全翻墙手册  
 [guide4SafeOfThroughGFW.html](guide4SafeOfThroughGFW.html)  
 ## 爆料革命网络宣传单制作手册  
