@@ -27,5 +27,7 @@
 本来不想推荐，怕有钓鱼，但小白战友太多了。  
 ## 战友安全翻墙手册  
 [guide4SafeOfThroughGFW.html](guide4SafeOfThroughGFW.html)  
+## 战友防止钓鱼攻击手册
+[guide4Phising.html](guide4Phising.html)  
 ## 爆料革命网络宣传单制作手册  
 [guide4leaflet.html](guide4leaflet.html)  
