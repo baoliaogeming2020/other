@@ -29,5 +29,7 @@
 [guide4SafeOfThroughGFW.html](guide4SafeOfThroughGFW.html)  
 ## 战友防止钓鱼攻击手册
 [guide4Phising.html](guide4Phising.html)  
+## 义工听写小组语音识别手册  
+[guide4Voice2txt.html](guide4Voice2txt.html)  
 ## 爆料革命网络宣传单制作手册  
 [guide4leaflet.html](guide4leaflet.html)  
