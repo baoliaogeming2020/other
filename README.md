@@ -31,5 +31,7 @@
 [guide4Phising.html](guide4Phising.html)  
 ## 义工听写小组语音识别手册  
 [guide4Voice2txt.html](guide4Voice2txt.html)  
+## 战友简谱制作-技术建议手册  
+[guide4Notation.html](guide4Notation.html)  
 ## 爆料革命网络宣传单制作手册  
 [guide4leaflet.html](guide4leaflet.html)  
