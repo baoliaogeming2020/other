@@ -33,5 +33,7 @@
 [guide4Voice2txt.html](guide4Voice2txt.html)  
 ## 战友简谱制作-技术建议手册  
 [guide4Notation.html](guide4Notation.html)  
+## 战友主播安全手册  
+[guide4AnchorSafe.html](guide4AnchorSafe.html)  
 ## 爆料革命网络宣传单制作手册  
 [guide4leaflet.html](guide4leaflet.html)  
