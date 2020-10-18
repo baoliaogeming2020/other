@@ -35,5 +35,7 @@
 [guide4Notation.html](guide4Notation.html)  
 ## 战友主播安全手册  
 [guide4AnchorSafe.html](guide4AnchorSafe.html)  
+## 战友语音房变声手册  
+[guide4VoiceChange.html](guide4VoiceChange.html)  
 ## 爆料革命网络宣传单制作手册  
 [guide4leaflet.html](guide4leaflet.html)  
