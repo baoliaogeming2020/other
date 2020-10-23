@@ -39,5 +39,7 @@
 [guide4VoiceChange.html](guide4VoiceChange.html)  
 ## 战友硬盘安全手册  
 [guide4DiskSafe.html](guide4DiskSafe.html)  
+## 战友工具箱  
+[guide4Tools1.1.html](guide4Tools1.1.html)  
 ## 爆料革命网络宣传单制作手册  
 [guide4leaflet2.0.html](guide4leaflet2.0.html)  
