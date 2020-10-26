@@ -43,3 +43,5 @@
 [guide4Tools2.0.html](guide4Tools2.0.html)  
 ## 爆料革命网络宣传单制作手册  
 [guide4leaflet2.0.html](guide4leaflet2.0.html)  
+## 战友打马技术手册——笑谈  
+[guide4Mosaic.html](guide4Mosaic.html)  
