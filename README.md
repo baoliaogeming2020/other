@@ -10,6 +10,8 @@
 
 最近发现好多战友反馈v2rayU问题较多，所以增加一个qv2ray教程，这个软件好在三个操作系统界面通用，所以一个教程就够了。
 
+## 选举地图  
+[seleMap.html](seleMap.html)  
 ## 带各农场LOGO的离线二维码生成器  
 [QRCodeGenerator.html](QRCodeGenerator.html)  
 ## IOS翻墙教程  
