@@ -16,6 +16,7 @@
 [QRCodeGenerator.html](QRCodeGenerator.html)  
 ## IOS翻墙教程  
 [guide4shadowrocket.html](guide4shadowrocket.html)  
+[guide4IOSnoAppleID.html](guide4IOSnoAppleID.html) 无美区苹果ID如何安装小火箭  
 ## WinOS翻墙教程  
 [guide4v2rayN.html](guide4v2rayN.html)  
 [guide4qv2ray.html](guide4qv2ray.html)  
