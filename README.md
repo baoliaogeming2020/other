@@ -54,3 +54,5 @@
 [guide4HowTurn2Linux.html](guide4HowTurn2Linux.html)
 ## 什么是战友个人隐私  
 [guide4privateInfo.html](guide4privateInfo.html)  
+## 战友制作文宣图简明手册  
+[guide4PS.html](guide4PS.html)  
