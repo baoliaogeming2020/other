@@ -56,3 +56,5 @@
 [guide4privateInfo.html](guide4privateInfo.html)  
 ## 战友制作文宣图简明手册  
 [guide4PS.html](guide4PS.html)  
+## 城市战友自救手册  
+[guide4Selfhelp.html](guide4Selfhelp.html)  
