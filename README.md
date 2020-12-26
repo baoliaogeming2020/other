@@ -58,3 +58,5 @@
 [guide4PS.html](guide4PS.html)  
 ## 城市战友自救手册  
 [guide4Selfhelp.html](guide4Selfhelp.html)  
+## 战友中的政府人员安全注意事项   
+[guide4officialsSafe.html](guide4officialsSafe.html)  
