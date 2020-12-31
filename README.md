@@ -60,3 +60,5 @@
 [guide4Selfhelp.html](guide4Selfhelp.html)  
 ## 战友中的政府人员安全注意事项   
 [guide4officialsSafe.html](guide4officialsSafe.html)  
+## 如何安全的使用免费节点  
+[guide4freeVmess.html](guide4freeVmess.html)  
