@@ -66,3 +66,5 @@
 [guide4freeVmess.html](guide4freeVmess.html)  
 ## 案例讲解信息挖掘  
 [guide4infoCheck.html](guide4infoCheck.html)  
+## 如何分辨Discord真假战友账号  
+[guide4DiscordTF.html](guide4DiscordTF.html)  
