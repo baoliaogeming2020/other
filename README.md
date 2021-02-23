@@ -68,3 +68,7 @@
 [guide4infoCheck.html](guide4infoCheck.html)  
 ## 如何分辨Discord真假战友账号  
 [guide4DiscordTF.html](guide4DiscordTF.html)  
+## 战友如何安全使用SSR节点  
+[guide4howUseSSR.html](guide4howUseSSR.html)  
+## 战友安全翻墙方式汇总  
+[guide4allBreakGFW.html](guide4allBreakGFW.html)  
