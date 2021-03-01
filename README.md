@@ -73,3 +73,5 @@
 [guide4howUseSSR.html](guide4howUseSSR.html)  
 ## 战友安全翻墙方式汇总  
 [guide4allBreakGFW.html](guide4allBreakGFW.html)  
+## 农场主如何快速校对战友表格  
+[guide4excel.html](guide4excel.html)  
