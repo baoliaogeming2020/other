@@ -75,3 +75,5 @@
 [guide4allBreakGFW.html](guide4allBreakGFW.html)  
 ## 农场主如何快速校对战友表格  
 [guide4excel2.0.html](guide4excel2.0.html)  
+## 主播战友如何用手机做直播封面  
+[guide4Canva.html](guide4Canva.html)  
