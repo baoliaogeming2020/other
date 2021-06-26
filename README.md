@@ -10,6 +10,8 @@
 
 最近发现好多战友反馈v2rayU问题较多，所以增加一个qv2ray教程，这个软件好在三个操作系统界面通用，所以一个教程就够了。
 
+## 战友如何参与劳伦斯·塞林博士发起的任务  
+[guide4HowtoJoinDr.Sellin.html](guide4HowtoJoinDr.Sellin.html)  
 ## 地图  
 直播美国大选时可用，直接用文本编辑器打开，郡的颜色可改。  
 全美SVG地图[seleMap.html](seleMap.html)  
