@@ -58,7 +58,7 @@
 ## 其它内容  
 1. 地图  
 直播美国大选时可用，直接用文本编辑器打开，郡的颜色可改。  
-全美SVG地图[seleMap.html](seleMap.html)  
-乔治亚州SVG地图[GeorgiaMapSVG.html](GeorgiaMapSVG.html)  
-认定中共种族灭绝的世界地图SVG版[genocideMap.html](genocideMap.html)  
+    - 全美SVG地图[seleMap.html](seleMap.html)  
+    - 乔治亚州SVG地图[GeorgiaMapSVG.html](GeorgiaMapSVG.html)  
+    - 认定中共种族灭绝的世界地图SVG版[genocideMap.html](genocideMap.html)  
 1. 城市战友自救手册：  [guide4Selfhelp.html](guide4Selfhelp.html)  
