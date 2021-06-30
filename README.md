@@ -11,10 +11,9 @@
 最近发现好多战友反馈v2rayU问题较多，所以增加一个qv2ray教程，这个软件好在三个操作系统界面通用，所以一个教程就够了。
 
 ## 义工教程  
-. 标准化字幕流程  [guide4AddSub.html](guide4AddSub.html)  
-. 战友如何参与劳伦斯·塞林博士发起的任务  [guide4HowtoJoinDr.Sellin.html](guide4HowtoJoinDr.Sellin.html)  
-### 义工听写小组语音识别手册  
-[guide4Voice2txt.html](guide4Voice2txt.html)  
+1. 标准化字幕流程：  [guide4AddSub.html](guide4AddSub.html)  
+2. 战友如何参与劳伦斯·塞林博士发起的任务：  [guide4HowtoJoinDr.Sellin.html](guide4HowtoJoinDr.Sellin.html)  
+3. 义工听写小组语音识别手册：  [guide4Voice2txt.html](guide4Voice2txt.html)  
 ### 战友简谱制作-技术建议手册  
 [guide4Notation.html](guide4Notation.html)  
 ## 战友语音房变声手册  
