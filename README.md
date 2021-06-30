@@ -25,8 +25,7 @@
 
 ## 安全教程  
 1. 战友安全翻墙手册：  [guide4SafeOfThroughGFW.html](guide4SafeOfThroughGFW.html)  
-1. 战友防止钓鱼攻击手册
-[guide4Phising.html](guide4Phising.html)  
+1. 战友防止钓鱼攻击手册：  [guide4Phising.html](guide4Phising.html)  
 1. 战友主播安全手册：  [guide4AnchorSafe.html](guide4AnchorSafe.html)  
 1. 战友硬盘安全手册：  [guide4DiskSafe.html](guide4DiskSafe.html)  
 1. 如何逐步远离微软：  [guide4HowTurn2Linux.html](guide4HowTurn2Linux.html)
@@ -39,10 +38,16 @@
 
 
 ## 翻墙教程  
-1. IOS翻墙教程：  [guide4shadowrocket.html](guide4shadowrocket.html)  [guide4IOSnoAppleID.html](guide4IOSnoAppleID.html) 无美区苹果ID如何安装小火箭  
-1. WinOS翻墙教程：  [guide4v2rayN.html](guide4v2rayN.html)：  [guide4qv2ray.html](guide4qv2ray.html)  
+1. IOS翻墙教程：  
+- shadowrocket教程： [guide4shadowrocket.html](guide4shadowrocket.html)  
+- 无美区苹果ID如何安装小火箭：  [guide4IOSnoAppleID.html](guide4IOSnoAppleID.html)   
+1. WinOS翻墙教程：  
+- v2rayN教程：  [guide4v2rayN.html](guide4v2rayN.html)  
+- qv2ray教程：  [guide4qv2ray.html](guide4qv2ray.html)  
 1. Android翻墙教程：  [guide4v2rayNG.html](guide4v2rayNG.html)  
-1. MacOS翻墙教程：  [guide4v2rayU.html](guide4v2rayU.html)：  [guide4qv2ray.html](guide4qv2ray.html)
+1. MacOS翻墙教程：  
+- v2rayU教程：  [guide4v2rayU.html](guide4v2rayU.html)
+- qv2ray教程：  [guide4qv2ray.html](guide4qv2ray.html)
 1. Linux翻墙教程：  [guide4qv2ray.html](guide4qv2ray.html)  
 1. 一键安装脚本教程：  [guide4V2rayScript.html](guide4V2rayScript.html)  本来不想推荐，怕有钓鱼，但小白战友太多了。  
 
