@@ -10,8 +10,17 @@
 
 最近发现好多战友反馈v2rayU问题较多，所以增加一个qv2ray教程，这个软件好在三个操作系统界面通用，所以一个教程就够了。
 
-## 标准化字幕流程  
+## 义工教程  
+### 标准化字幕流程  
 [guide4AddSub.html](guide4AddSub.html)  
+
+## 安全教程  
+
+## 翻墙教程  
+
+## 其它内容  
+
+
 ## 战友如何参与劳伦斯·塞林博士发起的任务  
 [guide4HowtoJoinDr.Sellin.html](guide4HowtoJoinDr.Sellin.html)  
 ## 地图  
