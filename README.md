@@ -10,7 +10,8 @@
 
 最近发现好多战友反馈v2rayU问题较多，所以增加一个qv2ray教程，这个软件好在三个操作系统界面通用，所以一个教程就够了。
 
-## 义工教程  
+<details>
+  <summary>## 义工教程  </summary>
 ### 标准化字幕流程  
 [guide4AddSub.html](guide4AddSub.html)  
 ### 战友如何参与劳伦斯·塞林博士发起的任务  
@@ -33,7 +34,7 @@
 [guide4excel2.0.html](guide4excel2.0.html)  
 ### 主播战友如何用手机做直播封面  
 [guide4Canva.html](guide4Canva.html)  
-
+</details>
 
 ## 安全教程  
 ### 战友安全翻墙手册  
