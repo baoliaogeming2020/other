@@ -14,7 +14,6 @@
 ## 义工教程  
 1. 爆料视频下载教程：  [guide4DownloadVideo2.0.html](guide4DownloadVideo2.0.html)  
 1. 标准化字幕流程：  [guide4AddSub.html](guide4AddSub.html)  
-1. 战友如何参与劳伦斯·塞林博士发起的任务：  [guide4HowtoJoinDr.Sellin.html](guide4HowtoJoinDr.Sellin.html)  
 1. 义工听写小组语音识别手册：  [guide4Voice2txt.html](guide4Voice2txt.html)  
 1. 战友简谱制作-技术建议手册： [guide4Notation.html](guide4Notation.html)  
 1. 战友语音房变声手册：  [guide4VoiceChange.html](guide4VoiceChange.html)  
