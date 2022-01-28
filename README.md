@@ -43,7 +43,7 @@
     - shadowrocket教程： [guide4shadowrocket.html](guide4shadowrocket.html)  
     - 无美区苹果ID如何安装小火箭：  [guide4IOSnoAppleID.html](guide4IOSnoAppleID.html)   
 1. WinOS翻墙教程：  
-    - v2rayN教程：  [guide4v2rayN.html](guide4v2rayN.html)  
+    - v2rayN教程：  [guide4v2rayN2.0.html](guide4v2rayN2.0.html)  
     - qv2ray教程：  [guide4qv2ray.html](guide4qv2ray.html)  
 1. Android翻墙教程：  [guide4v2rayNG.html](guide4v2rayNG.html)  
 1. MacOS翻墙教程：  
