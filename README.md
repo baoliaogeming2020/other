@@ -16,7 +16,7 @@
 1. 义工听写小组语音识别手册：  [guide4Voice2txt.html](guide/guide4Voice2txt.html)  
 1. 战友简谱制作-技术建议手册： [guide4Notation.html](guide/guide4Notation.html)  
 1. 战友语音房变声手册：  [guide4VoiceChange.html](guide/guide4VoiceChange.html)  
-1. 爆料革命网络宣传单制作手册：  [guide4leaflet2.0.html](guide/guide4leaflet2.0.html)  
+1. 爆料革命网络宣传单制作手册：  [guide4leaflet3.0.html](guide/guide4leaflet3.0.html)  
 1. 战友打马技术手册——笑谈：  [guide4Mosaic.html](guide/guide4Mosaic.html)  
 1. 战友制作文宣图简明手册：  [guide4PS.html](guide/guide4PS.html)  
 2. 战友如何参与挖掘中共老底：  [guide4DataMining2.0.html](guide/guide4DataMining2.0.html)
@@ -52,6 +52,5 @@
 1. 一键安装脚本教程：  [guide4V2rayScript.html](guide/guide4V2rayScript.html)  本来不想推荐，怕有钓鱼，但小白战友太多了。  
 
 ## 实用工具  
-1. 带各农场LOGO的离线二维码生成器：  [QRCodeGenerator.html](guide/QRCodeGenerator.html)  
-1. 战友工具箱：  [guide4Tools2.0.html](guide/guide4Tools2.0.html)  
+1. 战友工具箱：  [guide4Tools3.0.html](guide/guide4Tools3.0.html)  
 1. 城市战友自救手册：  [guide4Selfhelp.html](guide/guide4Selfhelp.html)  
