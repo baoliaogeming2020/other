@@ -20,9 +20,10 @@
 1. 爆料革命网络宣传单制作手册：  [guide4leaflet2.0.html](guide4leaflet2.0.html)  
 1. 战友打马技术手册——笑谈：  [guide4Mosaic.html](guide4Mosaic.html)  
 1. 战友制作文宣图简明手册：  [guide4PS.html](guide4PS.html)  
-1. 案例讲解信息挖掘：  [guide4infoCheck.html](guide4infoCheck.html)  
-1. 农场主如何快速校对战友表格：  [guide4excel2.0.html](guide4excel2.0.html)  
-1. 主播战友如何用手机做直播封面：  [guide4Canva.html](guide4Canva.html)  
+2. 战友如何参与挖掘中共老底：  [guide4DataMining2.0.html](guide4DataMining2.0.html)
+3. 案例讲解信息挖掘：  [guide4infoCheck.html](guide4infoCheck.html)  
+4. 农场主如何快速校对战友表格：  [guide4excel2.0.html](guide4excel2.0.html)  
+5. 主播战友如何用手机做直播封面：  [guide4Canva.html](guide4Canva.html)  
 
 ## 安全教程  
 1. 战友安全翻墙手册：  [guide4SafeOfThroughGFW.html](guide4SafeOfThroughGFW.html)  
