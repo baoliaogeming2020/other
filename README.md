@@ -23,6 +23,10 @@
 3. 案例讲解信息挖掘：  [guide4infoCheck.html](guide/guide4infoCheck.html)  
 4. 农场主如何快速校对战友表格：  [guide4excel2.0.html](guide/guide4excel2.0.html)  
 5. 主播战友如何用手机做直播封面：  [guide4Canva.html](guide/guide4Canva.html)  
+6. 在线翻译及对照校验手册：  [guide4cn-enComparison.html](guide/guide4cn-enComparison.html)  
+7. GNews编辑事务安全协议-MarkDown标记语言：  [guide4Markdown.html](guide/guide4Markdown.html)  
+8. 战友音视频制作与播放-技术建议手册：  [guide4Music.html](guide/guide4Music.html)  
+9. I2P传播爆料革命：  [guide4i2p.html](guide/guide4i2p.html)
 
 ## 安全教程  
 1. 战友安全翻墙手册：  [guide4SafeOfThroughGFW.html](guide/guide4SafeOfThroughGFW.html)  
@@ -36,6 +40,7 @@
 1. 如何分辨Discord真假战友账号：  [guide4DiscordTF.html](guide/guide4DiscordTF.html)  
 1. 战友如何安全使用SSR节点：  [guide4howUseSSR.html](guide/guide4howUseSSR.html)  
 1. 战友安全翻墙方式汇总：  [guide4allBreakGFW.html](guide/guide4allBreakGFW.html)  
+2. 钓鱼翻墙软件汇总-持续更新：  [guide4DangerousVPN.html](guide/guide4DangerousVPN.html)
 
 ## 翻墙教程  
 1. IOS翻墙教程：  
@@ -54,3 +59,5 @@
 ## 实用工具  
 1. 战友工具箱：  [guide4Tools3.0.html](guide/guide4Tools3.0.html)  
 1. 城市战友自救手册：  [guide4Selfhelp.html](guide/guide4Selfhelp.html)  
+2. 战友翻墙看英语视频手册：  [guide4Translate.html](guide/guide4Translate.html)  
+3. 爆料革命discord群投票-技术手册：  [guide4Vote.html](guide/guide4Vote.html)
