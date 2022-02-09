@@ -4,7 +4,7 @@
 向墙内需要学习翻墙的战友传播时，最好同时给一个可用节点的vmess或者二维码。  
 
 单一教程下载：点击教程进入，复制代码区内容到文本，存储为".html"。用浏览器打开。  
-教程打包下载：进入 [release](https://github.com/baoliaogeming2020/other/releases/tag/%E6%89%93%E5%8C%85%E4%B8%8B%E8%BD%BD) 下载压缩包。  
+教程打包下载：进入 [release](https://github.com/baoliaogeming2020/other/releases/tag/%E6%89%93%E5%8C%85%E4%B8%8B%E8%BD%BD) 下载压缩包。解压后可以象网站一样浏览。  
 
 
 ## 义工教程  
