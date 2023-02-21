@@ -23,7 +23,8 @@
 6. 在线翻译及对照校验手册：  [guide4cn-enComparison.html](guide/guide4cn-enComparison.html)  
 7. GNews编辑事务安全协议-MarkDown标记语言：  [guide4Markdown.html](guide/guide4Markdown.html)  
 8. 战友音视频制作与播放-技术建议手册：  [guide4Music.html](guide/guide4Music.html)  
-9. I2P传播爆料革命：  [guide4i2p.html](guide/guide4i2p.html)
+9. I2P传播爆料革命：  [guide4i2p.html](guide/guide4i2p.html)  
+9. 音乐制作软件选择：  [guide4DAW.html](guide/guide4DAW.html)  
 
 ## 安全教程  
 1. 战友安全翻墙手册：  [guide4SafeOfThroughGFW.html](guide/guide4SafeOfThroughGFW.html)  
