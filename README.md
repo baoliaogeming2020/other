@@ -58,4 +58,5 @@
 1. 战友工具箱：  [guide4Tools3.0.html](guide/guide4Tools3.0.html)  
 1. 城市战友自救手册：  [guide4Selfhelp.html](guide/guide4Selfhelp.html)  
 2. 战友翻墙看英语视频手册：  [guide4Translate.html](guide/guide4Translate.html)  
-3. 爆料革命discord群投票-技术手册：  [guide4Vote.html](guide/guide4Vote.html)
+2. 爆料革命discord群投票-技术手册：  [guide4Vote.html](guide/guide4Vote.html)  
+2. 郭文贵先生爆料革命大事记 2017-2019：  [memorabilia.html](guide/memorabilia.html)  
