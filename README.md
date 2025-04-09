@@ -59,7 +59,8 @@
 1. 城市战友自救手册：  [guide4Selfhelp.html](guide/guide4Selfhelp.html)  
 2. 战友翻墙看英语视频手册：  [guide4Translate.html](guide/guide4Translate.html)  
 2. 爆料革命discord群投票-技术手册：  [guide4Vote.html](guide/guide4Vote.html)  
-2. 郭文贵先生爆料革命大事记 2017-2019：  [memorabilia.html](guide/memorabilia.html)  
+2. 郭文贵先生爆料革命大事记 2017-2019：  [memorabilia.html](guide/memorabilia.html)
+3. 墙内如何购买$TDCCP：  [bible4buyTDCCP.html](guide/bible4buyTDCCP.html)  
 
 ## 个人赞助
 做教程不易，如果对你有帮助，请战友给作者买杯咖啡吧！只接收$TDCCP :)  
