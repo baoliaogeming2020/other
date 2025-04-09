@@ -60,3 +60,7 @@
 2. 战友翻墙看英语视频手册：  [guide4Translate.html](guide/guide4Translate.html)  
 2. 爆料革命discord群投票-技术手册：  [guide4Vote.html](guide/guide4Vote.html)  
 2. 郭文贵先生爆料革命大事记 2017-2019：  [memorabilia.html](guide/memorabilia.html)  
+
+## 个人赞助
+做教程不易，如果对你有帮助，请战友给作者买杯咖啡吧 :)
+![图片alt](图片链接 "图片title")
