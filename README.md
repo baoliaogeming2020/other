@@ -62,5 +62,5 @@
 2. 郭文贵先生爆料革命大事记 2017-2019：  [memorabilia.html](guide/memorabilia.html)  
 
 ## 个人赞助
-做教程不易，如果对你有帮助，请战友给作者买杯咖啡吧！只接收$TDCCP :)
+做教程不易，如果对你有帮助，请战友给作者买杯咖啡吧！只接收$TDCCP :)  
 ![个人赞助](guide/donate.png "只接收$TDCCP")
